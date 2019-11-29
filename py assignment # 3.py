@@ -21,13 +21,13 @@ elif op == 'pow':
     print(num1**num2)
 """
 #Q2
-"""
+
 lst=['a','b','c',1,'d']
 
 for i in lst:
     if i == 1:
         print("numeric exists")
-"""
+
 #Q3
 """
 d={'one', 'two'}
